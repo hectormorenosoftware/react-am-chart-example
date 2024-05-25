@@ -1,0 +1,36 @@
+.chart-css {
+  background: white;
+  text-align: center;
+  width: 85%;
+  border-radius: 14px;
+  border-width: 1px;
+  margin-bottom: 1rem;
+  font-weight: 1000;
+  border: 3.5px #ddd solid;
+  box-shadow: 1px 3px 4px 2px rgba(0 0 0 / 10%);
+}
+
+.chart-div {
+  height: 460px;
+}
+
+.chart-flex-box {
+  display: flex;
+  justify-content: center;
+}
+
+.corporate-report-header {
+  color: black;
+  text-align: center;
+  font-weight: 800;
+}
+
+.corporate-report-header-wrapper {
+  background: white;
+  margin-bottom: 1rem;
+  border-radius: 14px;
+  width: 85%;
+  margin-top: 1rem;
+  border: 3.5px #ddd solid;
+  box-shadow: 1px 3px 4px 2px rgba(0 0 0 / 10%);
+}
