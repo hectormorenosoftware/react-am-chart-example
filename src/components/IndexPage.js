@@ -53,7 +53,10 @@ class IndexPage extends React.PureComponent {
       <div className="App">
         <div className="chart-flex-box">
           <div className="corporate-report-header-wrapper">
-            <h1 className="corporate-report-header">Corporate Sales Report</h1>
+            <h1 className="corporate-report-header">Corporate Sales Report </h1>
+            <p style={{ textAlign: "center" }}>
+              Hover your mouse over the colors to see numbers.
+            </p>
           </div>
         </div>
         <div className="chart-flex-box">
